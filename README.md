@@ -7,7 +7,7 @@ So far, my curiosity gravitates toward the core layers of CSE - "Software Engine
 
 From hardware logic to real-world automation, I’ve built a handful of projects—**explore my repositories** to see them in action.
 
-Fun Facts:
+Hobbies:
 
    • Getting lost in good novels and poetry for better literary art.
 
